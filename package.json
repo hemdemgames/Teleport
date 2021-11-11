@@ -1,0 +1,14 @@
+{
+  "name": "com.hemdemgames.teleport",
+  "version": "1.0.0",
+  "displayName": "Teleport",
+  "documentationUrl": "https://github.com/hemdemgames/Teleport",
+  "changelogUrl": "https://github.com/hemdemgames/Teleport/changelog.html",
+  "licensesUrl": "https://github.com/hemdemgames/Teleport/licensing.html",
+  "keywords": [],
+  "author": {
+    "name": "hemdemgames",
+    "email": "info@hemdemgames.com",
+    "url": "https://hemdemgames.com"
+  }
+}
